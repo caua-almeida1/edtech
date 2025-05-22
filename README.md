@@ -1,6 +1,6 @@
 # 🧠 EdTech Inclusiva – Plataforma Educacional Acessível com Python
 
-Bem-vindo(a) ao repositório da **EdTech Inclusiva**, uma plataforma digital voltada para o ensino acessível de disciplinas exatas, como Matemática, Física, Química, Programação e Cidadania Digital. Este projeto foi desenvolvido como parte do **PIM (Projeto Integrado Multidisciplinar)** do curso de **Análise e Desenvolvimento de Sistemas – UNIP**.
+Bem-vindo(a) ao repositório da **EdTech Inclusiva**, uma plataforma digital voltada para o ensino acessível de disciplinas exatas, como Matemática, Programação e Segurança Digital. Este projeto foi desenvolvido como parte do **PIM (Projeto Integrado Multidisciplinar)** do curso de **Análise e Desenvolvimento de Sistemas – UNIP**.
 
 ---
 
@@ -45,3 +45,11 @@ A EdTech Inclusiva tem como missão promover **educação de qualidade para todo
 
 ```bash
 git clone https://github.com/caua-almeida1/edtech.git
+```
+
+3. Acesse a pasta do projeto e execute o script principal:
+
+ ```bash
+cd edtech-inclusiva
+python nome-do-arquivo.py
+```
