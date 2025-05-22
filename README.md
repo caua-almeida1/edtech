@@ -44,4 +44,4 @@ A EdTech Inclusiva tem como missão promover **educação de qualidade para todo
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/edtech-inclusiva.git
+git clone https://github.com/caua-almeida1/edtech.git
