@@ -50,6 +50,33 @@ git clone https://github.com/caua-almeida1/edtech.git
 3. Acesse a pasta do projeto e execute o script principal:
 
  ```bash
-cd edtech-inclusiva
-python nome-do-arquivo.py
+cd edtech
+python edtech-inclusiva.py
 ```
+4. Siga as instruções exibidas no terminal.
+
+---
+
+## 👥 Colaboradores
+
+- **Cauã Gonçalves de Almeida**
+- **Nicolly Lauton**
+- **José Paulo Arruda**
+
+---
+
+## 🔐 Licença
+
+Este projeto é de código aberto e livre para uso educacional. Sinta-se à vontade para clonar, adaptar e contribuir! 💚
+
+---
+
+## 📬 Contato
+
+Dúvidas? Sugestões? Fale com a gente:
+
+- Email: `cauagonalmeida@gmail.com`
+
+---
+
+> 💡 Este projeto tem como base a ética, a inclusão e o direito à educação para todos. Esperamos que ele sirva como ferramenta de transformação social.
