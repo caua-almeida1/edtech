@@ -1,6 +1,6 @@
 # 🧠 EdTech Inclusiva – Plataforma Educacional Acessível com Python
 
-Bem-vindo(a) ao repositório da **EdTech Inclusiva**, uma plataforma digital voltada para o ensino acessível de disciplinas exatas, como Matemática, Programação e Segurança Digital. Este projeto foi desenvolvido como parte do **PIM (Projeto Integrado Multidisciplinar)** do curso de **Análise e Desenvolvimento de Sistemas – UNIP**.
+Bem-vindo(a) ao repositório da **EdTech Inclusiva**, uma plataforma digital voltada para o ensino acessível de disciplinas exatas, como Matemática, Programação e Segurança Digital. Este projeto foi desenvolvido como parte do **PIM (Projeto Integrado Multidisciplinar)** do curso de **Análise e Desenvolvimento de Sistemas – FATEC**.
 
 ---
 
@@ -57,11 +57,9 @@ python edtech-inclusiva.py
 
 ---
 
-## 👥 Colaboradores
+## 👥 Colaborador
 
 - **Cauã Gonçalves de Almeida**
-- **Nicolly Lauton**
-- **José Paulo Arruda**
 
 ---
 
